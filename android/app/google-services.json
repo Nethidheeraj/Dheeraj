@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869797165677",
+    "project_id": "farm-harvest-3fd91",
+    "storage_bucket": "farm-harvest-3fd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869797165677:android:b6b46f02c1b3e286da5d64",
+        "android_client_info": {
+          "package_name": "com.example.farm_harvest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgj4-qR131toUhnel3LpKx_fkXllApI3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
